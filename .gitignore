@@ -13,3 +13,4 @@ wheels/
 # other files and folders
 logs/
 *.pyc
+/data/
